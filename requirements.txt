@@ -4,7 +4,6 @@ pandas
 openai
 cohere
 google-generativeai
-re
 
 # SQL connectors
 mysql-connector-python
@@ -50,4 +49,5 @@ pathlib
 # langchain-groq
 # cohere
 # pandas
+
 # streamlit
