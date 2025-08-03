@@ -9,7 +9,6 @@ google-generativeai
 mysql-connector-python
 psycopg2-binary         # PostgreSQL
 pyodbc                  # SQL Server (ODBC)
-sqlite3                 # Built-in, no need to install
 
 # LangChain
 langchain
@@ -51,3 +50,4 @@ pathlib
 # pandas
 
 # streamlit
+
